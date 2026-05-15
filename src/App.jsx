@@ -215,13 +215,14 @@ export default function PersonalWebsite() {
         </header>
 
         <Section id="about" title="About">
-          <p className="leading-7 text-neutral-800">
+          <p className="mt-3 leading-7 text-neutral-800">
             I am a fourth-year math and CS major at the University of Chicago. Next year I will start the math PhD program at Princeton.
           </p>
           <p className="leading-7 text-neutral-800">
             I am interested in dynamics and its applications to number theory and geometry. I also enjoy machine learning, especially when when applied to systems with exploitable structure like vision, audio processing, and dynamics.
           </p>
-          <p className="leading-7 text-neutral-800">
+
+          <p className="mt-3 leading-7 text-neutral-800">
             In my free time I play classical guitar.
           </p>
         </Section>
